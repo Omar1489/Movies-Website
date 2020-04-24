@@ -1,0 +1,8 @@
+1- Unzip the folder
+2- Open the folder in VS code
+3- In the terminal write :
+    npm install
+4- To run the program, write the following command in the terminal:
+    node app.js
+5- Open the web browser and type the following in the url bar:
+   localhost:3000/
